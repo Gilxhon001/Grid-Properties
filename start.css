@@ -1,0 +1,34 @@
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.green {
+    width: 100%;
+}
+
+.yellow {
+    width: 100%;
+}
+
+.red {
+    width: 100%;
+}
+
+.orange {
+    width: 100%;
+}
+
+.blue {
+    width: 100%;
+    height: 100%;
+}
+
+
+
